@@ -1,0 +1,22 @@
+# Samuel Henrique Fotografia
+
+> Fotógrafo autoral em Uberlândia, Minas Gerais, Brasil. Atende eventos, ensaios fotográficos, retratos individuais, ensaios de casal e fotografia de produtos em Uberlândia e região. As fotografias são feitas com smartphone, com foco em criatividade, técnica, composição e edição.
+
+## Página principal
+
+- [Início](https://SEU-DOMINIO.vercel.app/): apresentação da marca, localização e chamada para contato.
+- [Sobre](https://SEU-DOMINIO.vercel.app/#sobre): filosofia de trabalho ("Por trás das lentes").
+- [Serviços](https://SEU-DOMINIO.vercel.app/#servicos): eventos, ensaios fotográficos, retratos individuais, ensaios de casal e fotografia de produtos.
+- [Perguntas frequentes](https://SEU-DOMINIO.vercel.app/#perguntas): região de atuação, serviços, como solicitar e equipamento.
+- [Contato](https://SEU-DOMINIO.vercel.app/#contato): atendimento pelo WhatsApp.
+
+## Contato e perfis
+
+- [WhatsApp](https://wa.me/5534998948042): canal principal para solicitar ensaios, eventos e projetos.
+- [Instagram](https://www.instagram.com/sh.visuals__/): portfólio e trabalhos recentes.
+
+## Informações gerais
+
+- Localização: Uberlândia, Minas Gerais, Brasil.
+- Idioma: português do Brasil.
+- Preços: não divulgados no site; o orçamento é combinado por conversa no WhatsApp.
